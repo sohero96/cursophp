@@ -1,0 +1,3 @@
+C:\xampp\htdocs\cursophp
+
+localhost\cursophp
